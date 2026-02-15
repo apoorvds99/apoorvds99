@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Apoorv Singh
 
-<!--
-**apoorvds99/apoorvds99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Scientist with strong skills in SQL, Python, Power BI, and Machine Learning.  
+Focused on building business-driven, real-world data solutions.
 
-Here are some ideas to get you started:
+## Core Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- SQL (Joins, CTEs, Window Functions)
+- Machine Learning
+- Statistics
+- Power BI & Excel
+- Data Analysis & Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Customer Churn Prediction (Machine Learning)
+End-to-end churn prediction system using Logistic Regression and Decision Trees with class imbalance handling and Streamlit deployment.
+
+### HR Analytics Dashboard (Power BI)
+Interactive dashboard analyzing employee attrition, performance, and workforce trends.
+
+### Zomato Restaurant Analysis (Power BI)
+Business-focused dashboard analyzing restaurant distribution, cuisines, ratings, and online services.
+
+## Other Projects
+- SQL Student Course Management System
+- IPL Data Analysis (Python)
+- Excel Sales Dashboard
+
+## Contact
+- LinkedIn: [https://www.linkedin.com/in/apoorv0223/]
+- Email: [apoorvsingh79@gmail.com]
