@@ -1,6 +1,6 @@
 # Hi, I'm Apoorv Singh
 
-Aspiring Data Scientist with strong skills in SQL, Python, Power BI, and Machine Learning.  
+Aspiring Data Scientist with strong skills in SQL, Python, Power BI, Machine Learning, Natural Language Processing.
 Focused on building business-driven, real-world data solutions.
 
 ## Core Skills
