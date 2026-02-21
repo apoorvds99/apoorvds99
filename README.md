@@ -14,7 +14,10 @@ Focused on building business-driven, real-world data solutions.
 ## Featured Projects
 
 ### Customer Churn Prediction (Machine Learning)
-End-to-end churn prediction system using Logistic Regression and Decision Trees with class imbalance handling and Streamlit deployment.
+End-to-end churn prediction system using Logistic Regression and Decision Trees with class imbalance handling.
+
+### Monday Coffee Sales Analysis
+Business-focused data analysis project exploring sales performance, customer behavior, and product trends to generate actionable insights for revenue growth.
 
 ### HR Analytics Dashboard (Power BI)
 Interactive dashboard analyzing employee attrition, performance, and workforce trends.
@@ -27,6 +30,11 @@ Business-focused dashboard analyzing restaurant distribution, cuisines, ratings,
 - IPL Data Analysis (Python)
 - Excel Sales Dashboard
 
+## Currently Learning
+- Advanced Machine Learning
+- Generative AI concepts
+- Deep learning
+  
 ## Contact
 - LinkedIn: [https://www.linkedin.com/in/apoorv0223/]
 - Email: [apoorvsingh79@gmail.com]
