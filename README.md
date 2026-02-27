@@ -4,7 +4,7 @@ Aspiring Data Scientist with strong skills in SQL, Python, Power BI, Machine Lea
 Focused on building business-driven, real-world data solutions.
 
 ## Core Skills
-- Python (Pandas, NumPy, Scikit-learn)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - SQL (Joins, CTEs, Window Functions)
 - Machine Learning
 - Statistics
